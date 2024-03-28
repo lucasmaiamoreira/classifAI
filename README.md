@@ -36,8 +36,17 @@ Explorando os Resultados: Analise as métricas de desempenho e gráficos gerados
 - main.py: Contém o código principal para execução do projeto.
 
 - utils.py: Contém funções auxiliares utilizadas no projeto.
+
 - data/: Pasta que contém os arquivos CSV de dados climáticos.
+
 - README.md: Este arquivo, fornecendo informações sobre o projeto e instruções para utilização.
+
+
+## Explorando o Notebook Interativo
+
+Para uma exploração mais detalhada do projeto e uma análise passo a passo, confira o notebook interativo. Este notebook contém explicações detalhadas de cada etapa do projeto, junto com o código executável e visualizações interativas.
+
+- [Notebook Interativo](algoritmos_supervisionados.ipynb)
 
 ## Autor
 Este projeto foi desenvolvido por Lucas Maia Moreira.
